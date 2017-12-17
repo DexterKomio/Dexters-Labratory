@@ -83,8 +83,8 @@ class ipcdata(object):
 
 class ipcplugin(ts3plugin):
     requestAutoload = False
-    name = "ipc"
-    version = "1.0.2"
+    name = "ipc2teamspeak"
+    version = "1.0.0"
     apiVersion = 21
     author = "Ash \"Dexter\" Pesante"
     description = "This is a plugin used for interprocess communication."
@@ -95,7 +95,7 @@ class ipcplugin(ts3plugin):
     hotkeys = []
 
     # Testing logging function
-    ts3lib.logMessagets3lib.logMessage("ipc2 Plugin Pre-init",ts3defines.LogLevel.LogLevel_INFO,"pyTSon.ipc2tsplugin",0)
+    ts3lib.logMessagets3lib.logMessage("ipc2teamspeak Plugin Pre-init",ts3defines.LogLevel.LogLevel_INFO,"pyTSon.ipc2teamspeak",0)
 
     def __init__(self):
         self.clients = {}
