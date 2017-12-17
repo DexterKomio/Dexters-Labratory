@@ -86,13 +86,16 @@ class ipcplugin(ts3plugin):
     name = "ipc"
     version = "1.0.2"
     apiVersion = 21
-    author = "Thomas \"PLuS\" Pathmann"
-    description = "This is a plugin used for interprocess communication. It broadcasts events to clients and can receive commands to execute."
+    author = "Ash \"Dexter\" Pesante"
+    description = "This is a plugin used for interprocess communication."
     offersConfigure = False
     commandKeyword = ""
     infoTitle = None
     menuItems = []
     hotkeys = []
+
+    # Testing logging function
+    ts3lib.logMessagets3lib.logMessage("ipc2 Plugin Pre-init",ts3defines.LogLevel.LogLevel_INFO,"pyTSon.ipc2tsplugin",0)
 
     def __init__(self):
         self.clients = {}
