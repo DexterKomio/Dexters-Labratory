@@ -1,0 +1,10 @@
+[
+    {
+        "name": "socket2teamspeak",
+        "author": "Ash \"Dexter\" Pesante",
+        "version": "1.0.0",
+        "apiVersion": "21",
+        "description": "Provides a socket connection to Teamspeak for APIs.",
+        "url": "https://cdn.rawgit.com/DexterKomio/Dexters-Labratory/2017-12-17/socket2teamspeak.py"
+	}
+]
