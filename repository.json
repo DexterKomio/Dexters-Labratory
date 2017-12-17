@@ -5,6 +5,6 @@
         "version": "1.0.0",
         "apiVersion": "21",
         "description": "Provides a socket connection to Teamspeak for APIs.",
-        "url": "https://cdn.rawgit.com/DexterKomio/Dexters-Labratory/2017-12-17/socket2teamspeak.py"
+        "url": "https://raw.githubusercontent.com/DexterKomio/Dexters-Labratory/master/socket2teamspeak.py"
 	}
 ]
