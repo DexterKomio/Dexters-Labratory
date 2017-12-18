@@ -2,17 +2,9 @@
     {
         "name": "socket2teamspeak",
         "author": "Ash \"Dexter\" Pesante",
-        "version": "1.0.0",
+        "version": "0.0.1",
         "apiVersion": "21",
         "description": "Provides a socket connection to Teamspeak for APIs.",
         "url": "https://raw.githubusercontent.com/DexterKomio/Dexters-Labratory/master/socket2teamspeak.py"
-	},
-	{
-        "name": "ipc2teamspeak",
-        "author": "Ash \"Dexter\" Pesante",
-        "version": "1.0.0",
-        "apiVersion": "21",
-        "description": "An attempt at rewriting the default IPC implementation",
-        "url": "https://raw.githubusercontent.com/DexterKomio/Dexters-Labratory/master/ipc2teamspeak.py"
 	}
 ]

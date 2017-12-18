@@ -39,7 +39,7 @@ class threadedSocket(object):
 class ipcplugin(ts3plugin):
     requestAutoload = True
     name = "socket2teamspeak"
-    version = "0.0.0"
+    version = "0.0.1"
     apiVersion = 21
     author = "Ash \"Dexter\" Pesante"
     description = "Provides a socket for external application support."
