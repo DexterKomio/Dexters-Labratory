@@ -51,7 +51,6 @@ class ipcplugin(ts3plugin):
     
     def __init__(self):
     	# Logging for fun.
-    	ts3lib.logMessagets3lib.logMessage("Initializing",ts3defines.LogLevel.LogLevel_ERROR,"pyTSon.socket2teamspeak",0)
 
     	self.server = threadedSocket('127.0.0.1', 12345)
 
